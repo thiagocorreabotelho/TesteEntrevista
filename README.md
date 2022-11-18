@@ -44,5 +44,5 @@ Possíveis resultados (você só precisa resolver um):
 https://www.loom.com/share/e689fb7afc3b4a51803094dac9a4207f
 
 
-
+_Observação: Criei o bkp do banco de dados que criei para exemplificar o exercicio nº 2 e subi aqui no github._
 
